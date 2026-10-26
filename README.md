@@ -1,5 +1,5 @@
 # 🛒 Flutter E-Commerce App with Admin Panel
-
+![Flutter E-Commerce App Showcase](https://github.com/gillzaib021-code/e_commerece_app/blob/main/Flutter%20E-Commerce%20App%20Showcase.png?raw=true)
 A Flutter E-Commerce Application built using Flutter, Dart, Firebase, BLoC state management, and Stripe Payment Gateway integration. The app includes a user shopping experience and a dedicated admin panel for managing products, categories, and orders.
 
 ## ✨ Features
